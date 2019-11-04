@@ -1,6 +1,8 @@
 # Coinbase
 
-**TODO: Add description**
+## Realtime Market-Data Updates with Elixir
+
+Following the article -> https://medium.com/@alvisesus/realtime-market-data-updates-with-elixir-ce7d2b2b4d9e
 
 ## Installation
 
@@ -18,4 +20,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/coinbase](https://hexdocs.pm/coinbase).
-
